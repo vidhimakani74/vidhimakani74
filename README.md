@@ -1,6 +1,6 @@
 ###    Hello, i'm Vidhi Makani 👋
 
--🌱 I’m currently learning Front End Web Development.
+-🌱 I’m currently learning Python & Front End Web Development.
 
 -🎯 I'm Working on Improving my Problem Solving Skills.
 
