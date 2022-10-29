@@ -30,8 +30,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhimakani74&show_icons=true&locale=en&layout=compact" alt="vidhimakani74" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhimakani74&show_icons=true&locale=en" alt="vidhimakani74" /></p>
-<img src="https://camo.githubusercontent.com/cf4c1b6af7ee1a0d4e40f40bc57fc9813f3f9a38e450a61e95cefd8981a77641/68747470733a2f2f632e74656e6f722e636f6d2f62483571585541756b346b414141414d2f666972652e676966" alt="harshthakkar971" data-canonical-src="https://c.tenor.com/bH5qXUAuk4kAAAAM/fire.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-      </span></animated-image> Streak Stats</h2>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhimakani74&" alt="vidhimakani74" /></p>
 
 
