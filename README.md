@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://twitter.com/vidhi477" target="blank"><img src="https://img.shields.io/twitter/follow/vidhi477?logo=twitter&style=for-the-badge" alt="vidhi477" /></a> </p>
 
-- 🔭 I’m currently working on **mproving my Problem Solving Skills.**
+- 🔭 I’m currently working on **improving my Problem Solving Skills.**
 
 - 🌱 I’m currently learning **Python & full stack web development**
 
