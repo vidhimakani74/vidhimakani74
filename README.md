@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Python & full stack web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vidhimakani74/VidhiMakani_Portfolio](https://github.com/vidhimakani74/VidhiMakani_Portfolio)
+- 👨‍💻 All of my projects are available at [https://vidhimakani.netlify.app](https://vidhimakani.netlify.app/)
 
 - 📫 How to reach me **vidhimakani007@gmail.com**
 
