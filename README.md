@@ -5,8 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vidhimakani74&label=Profile%20views&color=0e75b6&style=flat" alt="vidhimakani74" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhimakani74" alt="vidhimakani74" /></a> </p>
-
 <p align="center"> <a href="https://twitter.com/vidhi477" target="blank"><img src="https://img.shields.io/twitter/follow/vidhi477?logo=twitter&style=for-the-badge" alt="vidhi477" /></a> </p>
 
 - 🔭 I’m currently working on **improving my Problem Solving Skills.**
@@ -16,6 +14,8 @@
 - 👨‍💻 All of my projects are available at [https://vidhimakani.netlify.app](https://vidhimakani.netlify.app/)
 
 - 📫 How to reach me **vidhimakani007@gmail.com**
+
+- 😄 Pronouns: she/her
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
