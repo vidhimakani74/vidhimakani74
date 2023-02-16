@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **improving my Problem Solving Skills.**
 
-- 🌱 I’m currently learning **Python & full stack web development**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 👨‍💻 All of my projects are available at [https://vidhimakani.netlify.app](https://vidhimakani.netlify.app/)
 
