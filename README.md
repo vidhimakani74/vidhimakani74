@@ -1,15 +1,15 @@
 
 
 <h1 align="center">Hey👋, I'm Vidhi</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A Computer Science student making way into Web Development.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vidhimakani74&label=Profile%20views&color=0e75b6&style=flat" alt="vidhimakani74" /> </p>
 
 <p align="center"> <a href="https://twitter.com/vidhi477" target="blank"><img src="https://img.shields.io/twitter/follow/vidhi477?logo=twitter&style=for-the-badge" alt="vidhi477" /></a> </p>
 
-- 🔭 I’m currently working on **improving my Problem Solving Skills.**
+- 🔭 I’m currently working on **various projects that include HTML, CSS and Javascript**
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **learning Javascript **
 
 - 👨‍💻 All of my projects are available at [https://vidhimakani.netlify.app](https://vidhimakani.netlify.app/)
 
