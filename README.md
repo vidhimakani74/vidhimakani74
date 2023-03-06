@@ -3,9 +3,9 @@
 <h1 align="center">Hey👋, I'm Vidhi</h1>
 <h3 align="center">A Computer Science student making way into Web Development.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vidhimakani74&label=Profile%20views&color=0e75b6&style=flat" alt="vidhimakani74" /> </p>
+![blue](https://komarev.com/ghpvc/?username=vidhimakani74&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-Vdhi-blue?style=flat&logo=Google-chrome&logoColor=white)](https://vidhimakani.netlify.app/)
 
-<p align="center"> <a href="https://twitter.com/vidhi477" target="blank"><img src="https://img.shields.io/twitter/follow/vidhi477?logo=twitter&style=for-the-badge" alt="vidhi477" /></a> </p>
+<!--  <a href="https://twitter.com/vidhi477" target="blank"><img src="https://img.shields.io/twitter/follow/vidhi477?logo=twitter&style=for-the-badge" alt="vidhi477" /></a>  -->
 
 - 🔭 I’m currently working on **various projects that include HTML, CSS and Javascript**
 
