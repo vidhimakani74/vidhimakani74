@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey👋, I'm Vidhi</h1>
+<h1 align="center">Hello👋, I'm Vidhi</h1>
 <h3 align="center">A Computer Science student making way into Web Development.</h3>
 
 ![blue](https://komarev.com/ghpvc/?username=vidhimakani74&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-Vdhi-blue?style=flat&logo=Google-chrome&logoColor=white)](https://vidhimakani.netlify.app/)
