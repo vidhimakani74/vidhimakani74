@@ -33,6 +33,12 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhimakani74&" alt="vidhimakani74" /></p>
 
+<h3>Open Source Contributions : </h3>
+  
+  
+<!--   [![@vidhimakani74's Holopin board](https://holopin.io/api/user/board?user=vidhimakani74)](https://holopin.io/@vidhimakani74) -->
+  
+  <a href="https://github.com/vidhimakani74/github-readme-activity-graph"><img alt="vidhi makani Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vidhimakani74" /></a>
 
 <!--
 **vidhimakani74/vidhimakani74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
