@@ -29,9 +29,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhimakani74&show_icons=true&locale=en&layout=compact" alt="vidhimakani74" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhimakani74&show_icons=true&locale=en" alt="vidhimakani74" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhimakani74&" alt="vidhimakani74" /></p>
+<p align="center">&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vidhimakani74&show_icons=true&locale=en" alt="vidhimakani74" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhimakani74&" alt="vidhimakani74" /></p>
 
 <h3>Open Source Contributions : </h3>
   
