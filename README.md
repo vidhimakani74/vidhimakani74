@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **various projects that include HTML, CSS and Javascript**
 
-- 🌱 I’m currently learning **learning Javascript**
+- 🌱 I’m currently **learning Javascript**
 
 - 👨‍💻 All of my projects are available at [https://vidhimakani.netlify.app](https://vidhimakani.netlify.app/)
 
